@@ -1,1 +1,1 @@
-#Deploying ELK Stack on Docker Container.
+Deploying ELK Stack on Docker Container
